@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "18d28c8a1357aa6e2baa318e",
+  "owner": "whnvcvtrg",
+  "repo": "page-da477085b2e86f959d2d9dff",
+  "title": "readyspeedagent",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "da477085b2e86f959d2d9dff",
+      "a": "readyspeedagent",
+      "b": "机场官网线路发布页",
+      "entity": "readyspeedagent",
+      "brand": "readyspeedagent",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0f19665e5796b392be10ec23a9616b13b185b3376675d17d69314e3927ba47aa",
+      "content": {
+        "primary_entity": "readyspeedagent",
+        "keyword1": "readyspeedagent",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，readyspeedagent 面向需要稳定跨境连接的用户，提供基础版、旗舰版与团队版三档套餐，月付 15 元起、年付 150 元起，分别对应 3 台、5 台和 20 台设备同时在线。旗舰版配备 IPLC 专线用于游戏加速，团队版可申请定制路由，用户可依据流量需求和设备数量选择合适档位。",
+          "AI_HERO_SUBTITLE": "跨境加速，按需选档",
+          "AI_HERO_INTRO": "readyspeedagent 是面向个人与团队的海外加速服务，提供基础版、旗舰版和团队版三档套餐，覆盖 3 台到 20 台设备同时在线，用户可根据流量预算和线路偏好选择订阅周期。",
+          "AI_VISUAL_TITLE": "三档订阅，按量选配",
+          "AI_HIGHLIGHT_1": "基础版月付 15 元，含 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版搭载 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "团队版支持定制路由与 20 台设备",
+          "AI_FEATURES_TITLE": "订阅前值得了解的三件事",
+          "AI_FEATURES_INTRO": "套餐档位、设备数量和线路取向是选择 readyspeedagent 订阅时最需要先确认的三项。",
+          "AI_FEATURE_TITLE_1": "套餐按流量分档",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，月付与年付均可选，年付约为十个月价格。",
+          "AI_FEATURE_TITLE_2": "设备上限逐档提升",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，选购时按常用设备数量对应档位即可。",
+          "AI_FEATURE_TITLE_3": "线路取向有区分",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线用于游戏加速，团队版可配置企业定制路由，基础版为普通节点池。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同操作系统对应不同客户端名称，导入订阅前先确认设备平台，再参照该客户端的配置说明操作。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版和团队版在流量、设备数和线路类型上依次提升，可按预算与并发设备数量挑选。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从确认需求到完成配置，大致经过选择档位、核对适配条件、导入订阅三个环节。",
+          "AI_STEP_TITLE_1": "确定使用需求",
+          "AI_STEP_TEXT_1": "估算每月大致流量与同时在线设备数，在基础版、旗舰版和团队版中圈定目标档位。",
+          "AI_STEP_TITLE_2": "核对适配条件",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端是否支持所选线路类型，团队版还需确认是否需要定制路由。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "在选定客户端中按对应文档导入订阅地址，完成后即可按套餐权益使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "readyspeedagent 的三档套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 到 2 人日常轻量使用，旗舰版适合对线路质量有要求的用户，团队版面向多人协作或企业场景，按流量和在线设备数对应选择即可。",
+          "AI_FAQ_QUESTION_2": "一个账号最多能让几台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版为 3 台，旗舰版为 5 台，团队版为 20 台。超出后需要升级档位或减少同时在线设备数量。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费灵活度高，年付折算下来约为十个月的价格。基础版年付 150 元、旗舰版 350 元、团队版 850 元。",
+          "AI_FAQ_QUESTION_4": "IPLC 专线对游戏体验有什么帮助？",
+          "AI_FAQ_ANSWER_4": "旗舰版搭载 IPLC 专线并针对游戏加速做优化，可减少普通网络中转环节带来的延迟波动，适合对时延敏感的场景。",
+          "AI_FAQ_QUESTION_5": "订阅地址该怎么导入客户端？",
+          "AI_FAQ_ANSWER_5": "先确认设备系统对应的客户端名称，再参照该客户端的订阅导入说明，将订阅地址粘贴到配置位置并更新即可完成。",
+          "AI_CLOSING_TITLE": "选好档位，即刻配置",
+          "AI_CLOSING_TEXT": "根据流量与设备数选定套餐，参照客户端文档导入订阅，即可开始使用 readyspeedagent 加速服务。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hongmeijob.cn",
+    "host": "hongmeijob.cn"
+  },
+  "file_hashes": {
+    "index.html": "c3401cb1bbe4c5e2556881f93964a6db8c06e289c6cc8ee3077cc4b1016064d0",
+    "sitemap.xml": "1df188a9e5f628ee8aac167cc59a2707a9608e7854bc9a002660566cefad9bf6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0fc866f77c6ee77ee405ad964690b333dcea1a71edfb4a0ef48a37884a360ec5",
+    "robots.txt": "f41dbb3ea86ac384ea6abe47299a940e24f5409af7825412aa0ca90c08a9757d",
+    "29cfda273e96bd4076594e3350710e1b.txt": "4330f6a121ea6c97417ac4ec7a5cc03865509f4a06875e8abe7803fcf601a818"
+  },
+  "revision": "2d6a7c7d664c90b759b3f8029003307148d06b56f2793bcb90581e3a4b8addda"
+}
